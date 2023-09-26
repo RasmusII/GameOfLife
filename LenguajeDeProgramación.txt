@@ -1,0 +1,2 @@
+El lenguaje que escogí para trabajar este problema fue Python ya que es un lenguaje con el cual me siento comodo por su flexibilidad, 
+además de ser un lenguaje con el que llevo trabajando un buen tiempo y me siento confiado con el mismo.
